@@ -13,7 +13,7 @@
 		<property name="hibernate.connection.username">root</property>
 		<property name="hibernate.connection.password"></property>
 
-		<mapping resource="user.hbm.xml" />
+		<mapping resource="employee.hbm.xml" />
 	</session-factory>
 
 </hibernate-configuration>
